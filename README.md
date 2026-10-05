@@ -13,7 +13,10 @@
 3. **Скачайте библиотеку `EEPROM.h`** с GitHub:
    [PaulStoffregen/EEPROM](https://github.com/PaulStoffregen/EEPROM)
 
-4. **Скачайте драйвер USB-UART (CP210x)** для подключения платы по проводу:
+4. **Установите расширение PlatformIO в VS Code.** Откройте VS Code, перейдите в раздел расширений (`Ctrl+Shift+X`) и установите расширение:
+   [PlatformIO IDE](https://marketplace.visualstudio.com/items?itemName=platformio.platformio-ide)
+
+5. **Скачайте драйвер USB-UART (CP210x)** для подключения платы по проводу:
    [USB to UART Bridge VCP Drivers](https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads)
 
 ## Примечания
